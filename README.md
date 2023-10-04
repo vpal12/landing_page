@@ -20,7 +20,7 @@ If none of these themes fit within your taste, it's quite easy to customize and 
 
 ## GitHub Pages
 
-GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
+GitHub makes it easy to create personal websites. Follow this link - [G) to know how or follow the steps below.
 
 If you already have a GitHub profile (obviously)
 
@@ -31,7 +31,7 @@ If you already have a GitHub profile (obviously)
 
 Voila! Your site should be live at `https://{username}.github.io`
 
-Here's my **Dev Landing Page** - [Dinesh Pandiyan - v1](https://v1.dineshpandiyan.com/)
+Here's my **Dev Landing Page** - [/)
 
 ### Custom Domain
 
